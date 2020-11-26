@@ -1,4 +1,4 @@
-module github.com/heroku/docker-registry-client
+module github.com/LeakIX/docker-registry-client
 
 go 1.12
 
